@@ -37,6 +37,8 @@ dependencies:
   cupertino_icons: ^1.0.6
   shared_preferences: ^2.2.3
   geolocator:
+  http:
+  flutter_countdown_timer:
 
 dev_dependencies:
   flutter_test:
